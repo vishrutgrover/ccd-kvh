@@ -4,8 +4,6 @@
 
 *Increasing Cloud Cover Percentage (from left to right)*
 
-**[AIMS]** Predictive models for cloud coverage prediction (LSTM, GRU, Transformers)
-
 **Team KVH:** Kanishk Jain, Vishrut Grover, Hemang Jain
 
 ---
